@@ -1,3 +1,3 @@
-module github.com/layeh/gopus
+module github.com/tzakrajs/gopus
 
 go 1.16
