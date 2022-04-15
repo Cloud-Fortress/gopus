@@ -1,3 +1,3 @@
-module github.com/tzakrajs/gopus
+module github.com/Cloud-Fortress/gopus
 
 go 1.16
